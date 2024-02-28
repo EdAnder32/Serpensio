@@ -1,9 +1,9 @@
-# Serpensio
+# SERPENSIO
 
 ![Imagem de Exemplo](https://th.bing.com/th/id/OIG1.DcnY.pF4kWfuhPlLPq6q?pid=ImgGn)
 
 ## Descrição
-Jogo desenvolvido por um ex-pisciner e futuro cadete (fingers crossed) da 42 Luanda!!! Espero que gostem haha :-)
+Jogo desenvolvido por um ex-pisciner e futuro cadete (fingers crossed) da 42 Luanda!!! Espero que gostem haha :)
 
 ## Instalação
 Para instalar, siga os passos abaixo:
